@@ -1,0 +1,33 @@
+{
+  "name": "alljoin-backend",
+  "version": "1.0.0",
+  "description": "**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://malikadil@bitbucket.org/Aamer_Malik/alljoin-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Aamer_Malik/alljoin-backend#readme",
+  "dependencies": {
+    "@google-cloud/storage": "^4.7.0",
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.18.3",
+    "config": "^3.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^8.1.0",
+    "express": "^4.16.4",
+    "express-winston": "^3.1.0",
+    "jsonwebtoken": "^8.4.0",
+    "moment": "^2.24.0",
+    "mongoose": "^5.4.10",
+    "mongoose-paginate": "^5.0.3",
+    "swagger-jsdoc": "^3.4.0",
+    "uuid": "^3.3.2",
+    "winston": "^3.2.1"
+  }
+}

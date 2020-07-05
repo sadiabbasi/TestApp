@@ -1,0 +1,9 @@
+{
+  "webServer": {
+    "host": "0.0.0.0",
+    "port": "5001",
+    "apiUrl": "./src/router.js",
+    "logs": "./logs/combined.log",
+    "secretKey" : "Nothing is secret"
+  }
+}

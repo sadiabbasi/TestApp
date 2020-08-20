@@ -15,7 +15,7 @@
   "homepage": "https://bitbucket.org/Aamer_Malik/alljoin-backend#readme",
   "dependencies": {
     "@google-cloud/storage": "^4.7.0",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "config": "^3.0.1",
     "cors": "^2.8.5",
